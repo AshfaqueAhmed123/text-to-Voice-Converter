@@ -65,7 +65,7 @@ body {
   margin: 0;
   /* 1 */
   line-height: inherit;
-  background:#0000dd !important;
+  background:#0000aa !important;
   /* 2 */
 }
 
@@ -829,4 +829,16 @@ video {
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+
+@media screen and (max-width:900px){
+
+  input {
+
+    width : 80vw;
+    border:none;
+    border-radius:12px;
+  }
+
 }
