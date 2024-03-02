@@ -19,7 +19,7 @@ btn.onclick = async function () {
             statusElement.innerText = ''
             statusElement.classList.remove("m-4");
         } catch (error) {
-            console.log('wowo');
+            console.log(error);
         }
 
     } else {
