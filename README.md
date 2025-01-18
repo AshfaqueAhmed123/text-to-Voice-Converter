@@ -1,2 +1,2 @@
 # Voice-Converter
-this is a simple voice converter application
+this is a simple text-to-voice converter application
